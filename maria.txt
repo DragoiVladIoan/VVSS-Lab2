@@ -1,0 +1,15 @@
+Tema: 1
+Nota: 7.5
+Predata in saptamana: 8
+Deadline: 7
+Feedback: sugi
+
+Tema: 2
+Nota: 1.0
+Predata in saptamana: 12
+Deadline: 8
+Feedback: dwdw
+
+Tema: 3
+Nota: 7.5
+Predata in saptamana: 8
