@@ -38,5 +38,4 @@ public class JUnitAddAssignmentTest {
 
         assertNull(temaNoua);
     }
-    
 }
