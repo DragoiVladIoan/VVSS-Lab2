@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="4" failures="0" name="integration.bigbang.JUnitBigBangIntegrationTest" time="0.024" errors="0" skipped="0">
+<testsuite tests="4" failures="0" name="JUnitBigBangIntegrationTest" time="0.027" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib"/>
@@ -66,8 +66,8 @@
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="integration.bigbang.JUnitBigBangIntegrationTest" name="addGradeTest" time="0.003"/>
-  <testcase classname="integration.bigbang.JUnitBigBangIntegrationTest" name="addAssignmentTest" time="0.006"/>
-  <testcase classname="integration.bigbang.JUnitBigBangIntegrationTest" name="testAll" time="0.008"/>
-  <testcase classname="integration.bigbang.JUnitBigBangIntegrationTest" name="addStudentTest" time="0.007"/>
+  <testcase classname="JUnitBigBangIntegrationTest" name="addGradeTest" time="0.006"/>
+  <testcase classname="JUnitBigBangIntegrationTest" name="addAssignmentTest" time="0.005"/>
+  <testcase classname="JUnitBigBangIntegrationTest" name="testAll" time="0.008"/>
+  <testcase classname="JUnitBigBangIntegrationTest" name="addStudentTest" time="0.008"/>
 </testsuite>

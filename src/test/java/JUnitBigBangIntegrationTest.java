@@ -1,5 +1,3 @@
-package integration.bigbang;
-
 import domain.Nota;
 import domain.Pair;
 import domain.Student;
