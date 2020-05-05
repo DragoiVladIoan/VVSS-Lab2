@@ -15,6 +15,11 @@
 <Deadline>9</Deadline>
 <Startline>7</Startline>
 </tema>
+<tema ID="tema">
+<Descriere>description</Descriere>
+<Deadline>4</Deadline>
+<Startline>1</Startline>
+</tema>
 <tema ID="10">
 <Descriere>Tema noua</Descriere>
 <Deadline>12</Deadline>

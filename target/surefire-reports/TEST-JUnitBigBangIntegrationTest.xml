@@ -67,7 +67,7 @@
     <property name="sun.cpu.isalist" value=""/>
   </properties>
   <testcase classname="JUnitBigBangIntegrationTest" name="addGradeTest" time="0"/>
-  <testcase classname="JUnitBigBangIntegrationTest" name="addAssignmentTest" time="0.004"/>
-  <testcase classname="JUnitBigBangIntegrationTest" name="testAll" time="0.013"/>
-  <testcase classname="JUnitBigBangIntegrationTest" name="addStudentTest" time="0.004"/>
+  <testcase classname="JUnitBigBangIntegrationTest" name="addAssignmentTest" time="0.003"/>
+  <testcase classname="JUnitBigBangIntegrationTest" name="testAll" time="0.011"/>
+  <testcase classname="JUnitBigBangIntegrationTest" name="addStudentTest" time="0.007"/>
 </testsuite>
