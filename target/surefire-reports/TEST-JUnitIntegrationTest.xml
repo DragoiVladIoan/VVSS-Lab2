@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="7" failures="0" name="JUnitAddAssignmentTest" time="0.026" errors="0" skipped="0">
+<testsuite tests="5" failures="0" name="JUnitIntegrationTest" time="0.018" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib"/>
@@ -66,11 +66,9 @@
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="JUnitAddAssignmentTest" name="addCorrectAssignmentTest" time="0.004"/>
-  <testcase classname="JUnitAddAssignmentTest" name="addAssignmentWithWrongDeadline" time="0.005"/>
-  <testcase classname="JUnitAddAssignmentTest" name="addAssignmentTest" time="0.003"/>
-  <testcase classname="JUnitAddAssignmentTest" name="addAssignmentWithWrongStartline" time="0.003"/>
-  <testcase classname="JUnitAddAssignmentTest" name="addAssignmentWithMissingId" time="0.004"/>
-  <testcase classname="JUnitAddAssignmentTest" name="addAssignmentWithMissingDescription" time="0.003"/>
-  <testcase classname="JUnitAddAssignmentTest" name="addAssignmentExceptionTest" time="0.004"/>
+  <testcase classname="JUnitIntegrationTest" name="addGradeIntegrationTest" time="0"/>
+  <testcase classname="JUnitIntegrationTest" name="addStudentAssignmentIntegrationTest" time="0.004"/>
+  <testcase classname="JUnitIntegrationTest" name="addAll" time="0.006"/>
+  <testcase classname="JUnitIntegrationTest" name="addStudentTest" time="0.004"/>
+  <testcase classname="JUnitIntegrationTest" name="addAssignmentIntegrationTest" time="0.004"/>
 </testsuite>

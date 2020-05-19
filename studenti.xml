@@ -12,8 +12,20 @@
 <Nume>Maria</Nume>
 <Grupa>222</Grupa>
 </student>
+<student ID="200">
+<Nume>Georgica Fodorut</Nume>
+<Grupa>933</Grupa>
+</student>
+<student ID="201">
+<Nume>Gavrilu Ardei</Nume>
+<Grupa>933</Grupa>
+</student>
 <student ID="4">
 <Nume>Ion</Nume>
 <Grupa>227</Grupa>
+</student>
+<student ID="202">
+<Nume>Dragoiu Vladin</Nume>
+<Grupa>933</Grupa>
 </student>
 </Entitati>

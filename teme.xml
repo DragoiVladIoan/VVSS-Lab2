@@ -20,9 +20,19 @@
 <Deadline>4</Deadline>
 <Startline>1</Startline>
 </tema>
+<tema ID="20">
+<Descriere>alta tema</Descriere>
+<Deadline>3</Deadline>
+<Startline>1</Startline>
+</tema>
 <tema ID="10">
 <Descriere>Tema noua</Descriere>
 <Deadline>12</Deadline>
 <Startline>10</Startline>
+</tema>
+<tema ID="21">
+<Descriere>alta alta tema</Descriere>
+<Deadline>3</Deadline>
+<Startline>2</Startline>
 </tema>
 </Entitati>

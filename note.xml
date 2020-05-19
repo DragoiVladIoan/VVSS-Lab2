@@ -30,4 +30,9 @@
 <SaptamanaPredare>12</SaptamanaPredare>
 <Feedback>Very very poor job</Feedback>
 </nota>
+<nota IDStudent="202" IDTema="21">
+<Nota>7.5</Nota>
+<SaptamanaPredare>2</SaptamanaPredare>
+<Feedback>sfantu 5</Feedback>
+</nota>
 </Entitati>
